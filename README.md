@@ -1,6 +1,5 @@
 # WindowsCrasher
 
-> 🖥️ a small tool to cause bluescreen on windows platform
 
 **⚠ For study and research purposes only, please use for legal purposes**
 
